@@ -1,12 +1,12 @@
 ---
-title: Team
+title: Team Setup
 layout: teams
 description: Team
 permalink: "/team/"
-intro_image_absolute: true
+intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our team of qualified simulation and data engineers as well as process automation enthusiasts can help your business to grow with enriched and processed data. 
