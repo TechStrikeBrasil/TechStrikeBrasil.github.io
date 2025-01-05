@@ -9,6 +9,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# SPDM Tech - Simulation Management at a glance
+# SPDM Tech - Simulation Solutions at a glance
 
-Simulation Process and Data Management Solutions to grow your Business with combined Simulation Business Process Digitalization, Simulation Workflows and Simulation Data Management.   
+Simulation Process and Data Management Solutions to grow your Business with combined Simulation Process Digitalization, Simulation Workflows and Simulation Data Management.   

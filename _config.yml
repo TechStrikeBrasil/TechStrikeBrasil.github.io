@@ -1,6 +1,7 @@
 baseurl: '/'
 permalink: pretty
 title: 'SPDM Technologies'
+footer-title: 'Dr.-Ing. Daniel M. Kraetschmer'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
