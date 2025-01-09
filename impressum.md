@@ -4,6 +4,25 @@ layout: impressum
 description: Impressum according to German Laws
 ---
 
+Readaktionell verantwortlich
+-------------------
+Daniel Krätschmer <br>
+Felsenstraße 54/1 <br>
+70794 Filderstadt <br>
+
+Design und Umsetzung
+-------------------
+Daniel Krätschmer <br>
+Felsenstraße 54/1 <br>
+70794 Filderstadt <br>
+
+Bildnachweis
+-------------------
+Die auf der Seite verwendeten Bilder stammen von: 
+- Daniel Krätschmer
+- Royalty free Illustrations by Icons8 - [https://icons8.com/illustrations/style--pixeltrue](https://icons8.com/illustrations/style--pixeltrue)
+- Stock images by Unsplash - [https://unsplash.com/](https://unsplash.com/)
+- Feature icons by Noun Project - [https://thenounproject.com/](https://thenounproject.com/)
 
 Haftung für Inhalte
 -------------------
