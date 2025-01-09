@@ -10,9 +10,12 @@ main:
     weight: 4
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 4
   - name: "Impressum"
     url: "/impressum/"
+    weight: 7
+  - name: "Posts"
+    url: "/posts/"
     weight: 6
 
 footer:
