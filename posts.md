@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Post topics
+# SPDM Tech Blog Posts
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
+Once a month I want to share some thougts and perspectives regarding Numerical Simulation, Mechanical Engineering, Electronics, Data Management or pure Digitalization Topic with you: Maybe a technical documentation how to build a nice solution, maybe just some thougts to think about.    
