@@ -4,13 +4,12 @@ date: 2025-01-08T15:15:26+10:00
 weight: 1
 ---
 
-## Introduction
 
 This webpage is build with [Jekyll](https://jekyllrb.com) and hosted by GitHub Pages. 
 Jekyll is a static site generator that combines content and layout information to generate a static site.
 As my favourite markup language is [markdown](https://www.markdownguide.org) 
-and I am quite used to write technical documentations with markdown
-it seems to be a reasonable choice stepping into Jekyll and [Liquid](https://github.com/Shopify/liquid/wiki). 
+and I am quite used to write technical documentations with markdown,
+it is a reasonable choice to step into Jekyll and [Liquid](https://github.com/Shopify/liquid/wiki). 
 
 ## Let's start
 
@@ -18,7 +17,7 @@ it seems to be a reasonable choice stepping into Jekyll and [Liquid](https://git
 >
 > – _Jekyll Documentation_
 
-Perfect Start. As I am no backend programmer I have no glue about
+Perfect Start. As I'm not a backend programmer I have no glue about
 [Ruby Programming Language](https://www.ruby-lang.org/en/) and its terminology at all. 
 But not a big problem so far as it seems to be quite straightforward.
 
@@ -26,7 +25,7 @@ But not a big problem so far as it seems to be quite straightforward.
 >
 > – _Jekyll Documentation_
 
-Do I really have in install Ruby locally? As I have a macOS Ruby is presintalled and a homebrew installation to cover the version requirements on Ruby is aldo fine. But is this really the way to go? </b>
+Do I really have in install Ruby locally? As I have a macOS, Ruby is presintalled and a homebrew installation to cover the version requirements on Ruby is also fine. But is this really the way to go? </b>
 **Let's check first if there is a jekyll docker image available.**
 
 I searched in dockerhub and there is an official [jekyll image](https://hub.docker.com/r/jekyll/jekyll/) available. 
@@ -55,7 +54,7 @@ I could run an AMD64 image via emulation as stated here:
 **Maybe the right time to setup Ruby and Jekyll for my own.**
 
 Let's check for a Ruby image first. Et voilà: [Ruby Docker official image](https://hub.docker.com/_/ruby) 
-that is offically curated and supports various architectures including ARMv8 64-bit. Seems to be the way to get. 
+that is offically curated and supports various architectures including ARMv8 64-bit. Seems to be the way to go. 
 Let's setup the Docker file for Ruby using the documentated docker setup example for Ruby as our reference.  
 
 >```shell
@@ -87,9 +86,9 @@ For the Jekyll use case there are various Gemfiles available. I used this one:
 >gem "jekyll", "~> 4.3"
 >gem "jekyll-environment-variables"
 >```
-In Addtion to this ruby/jekyll container I want to include an Nginx Proxy Server to have more security options as well as  flexibility afterwards. 
+In addtion to this ruby/jekyll container I want to include an nginx Proxy Server to have more security options as well as flexibility afterwards. 
 
-So let's search for an approriate Nginx Image. 
+So let's search for an approriate nginx Image. 
 
 I again searched in dockerhub and there is an official [nginx image](https://hub.docker.com/_/nginx) available.   
 This way I continued to write the <span style="background-color: lightgrey">compose.yaml</span> for docker compose. 
@@ -133,11 +132,11 @@ considering the default port 80, see here:
 >}
 >```
 
-For Details configuring nginx, please refer to the official documentation:[Nginx Documentation](https://nginx.org/en/docs/)
+For Details configuring nginx, please refer to the official documentation:[nginx Documentation](https://nginx.org/en/docs/)
 
 This files needs to copied or in my case mounted to the docker container. 
 If you prefer copying the configuration file you have to provide a respective 
-Docker Setup with COPY addressed in docker compose.  
+Docker Setup with <span style="background-color: lightblue">COPY</span> addressed in docker compose.  
 
 As jekyll is providing the site hosting using 127.0.0.1:4000 
 I define a proxy_pass using the service name with the default Jekyll port.  

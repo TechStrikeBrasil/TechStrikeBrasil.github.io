@@ -4,7 +4,6 @@ layout: contact
 description: Contact
 ---
 
-## <span style="background-color: lightgrey">This is just a test page</span>
 
 <!---
 | Day       | Opening Hours   |
