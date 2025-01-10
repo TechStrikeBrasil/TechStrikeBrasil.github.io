@@ -5,7 +5,6 @@ description: About
 bodyClass: page-about
 ---
 
-## <span style="background-color: lightgrey">This is just a test page</span>
 
 My Name is `Daniel Krätschmer` - Simulation Expert and Data Enthusiast - working for Robert Bosch GmbH in several Engineering positions since 2011. In my current position as `Senior Manager for Digitalization in Engineering` I am serving Bosch setting up our Digitalization Journey in the Engineeering. I am supporting our Bosch Developers for Electronic Control Units (ECUs) and mechatronical systems by:
 - **Processes**: Business Process Digitalization Support

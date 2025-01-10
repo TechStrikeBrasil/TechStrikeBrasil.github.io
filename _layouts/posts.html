@@ -27,7 +27,9 @@ bodyClass: "page-posts"
           <h2 class="post-title">
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           </h2>
-          <p>{{ post.excerpt | markdownify | strip_html | truncate: 100 }}</p>
+          {%- assign date_format = post.date_format | default: "%B %d, %Y" -%}
+          <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
+          <p>{{ post.excerpt | markdownify | strip_html | truncate: 200 }}</p>
         </div>
       </div>
     </div>
