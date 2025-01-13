@@ -6,13 +6,13 @@ bodyClass: page-about
 ---
 
 
-My Name is `Daniel Krätschmer` - Simulation Expert and Data Enthusiast - working for Robert Bosch GmbH in several Engineering positions since 2011. In my current position as `Senior Manager for Digitalization in Engineering` I am serving Bosch setting up our Digitalization Journey in the Engineeering. I am supporting our Bosch Developers for Electronic Control Units (ECUs) and mechatronical systems by:
+My Name is `Daniel Krätschmer` - Simulation Expert and Data Enthusiast - working for Robert Bosch GmbH in several Engineering positions since 2011. In my current position as `Senior Manager for Digitalization in Engineering` I am serving Bosch setting up our Digitalization Journey in the field of Mechanical Engineering in the Mobility Electronics Business Unit. I am supporting our Bosch Developers for Electronic Control Units (ECUs) and mechatronical systems by:
 - **Processes**: Business Process Digitalization Support
 - **Organization**: Organization Development towards Agile
-- **Data**: Data and Information Management 
-- **Algorithms**: Software Development for several Engineering disciplines
-- **Operations**: CAD/PLM Hosting (ptc Windchill & CREO) & Operations 
-- **Services**: Development Environments (IDEs) for both Software Developers and Mechanical Engineers
+- **Data**: Data Management, connected Data and Knowledge Graphs 
+- **Algorithms**: Software Development including Simulation Automation and Data Management for several Engineering tasks
+- **Operations**: CAD/PLM Hosting (ptc Windchill & CREO) & Operations for > 1000 Developers worldwide 
+- **Services**: Development Environments (IDEs) for Software Developers and Data Scientists but as well Mechanical Engineers. 
 
 ![Daniel Kraetschmer](/images/2025-01-09-Daniel-Kraetschmer.jpg)
 <small> Source: Daniel Krätschmer</small>
