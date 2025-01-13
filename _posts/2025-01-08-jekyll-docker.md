@@ -2,6 +2,10 @@
 title:  "Setting up a local development environment for Jekyll with Docker"
 date: 2025-01-08T15:15:26+10:00
 weight: 1
+categories: ["Development"]
+featured-img: /images/illustrations/nasa-Q1p7bh3SHj8-unsplash.jpg
+author: "Daniel M. Krätschmer"
+categories: ["Development"]
 ---
 
 
