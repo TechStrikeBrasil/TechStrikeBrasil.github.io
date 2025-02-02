@@ -9,19 +9,10 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Certified Company",
+    "description": "has been duly registered in accordance with the provision of sector 7(2)(a) of money laundering (prevention and prohibition) act 2022 and any other law or regulations..",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
       "height": 80
     }
