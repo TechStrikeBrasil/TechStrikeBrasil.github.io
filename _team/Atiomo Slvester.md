@@ -1,7 +1,7 @@
 ---
 title: "Atiomo Sylvester"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "images/team/Atiomo Sylvester.jpg"
 jobtitle: "Founder / Hr / Design director"
 linkedinurl: "https://www.linkedin.com/in/sylvester-atiomo/"
 promoted: true
