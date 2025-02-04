@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our team is made up of skilled professionals with expertise in software development, cybersecurity, project management, and design. We’re committed to delivering top-tier solutions, collaborating to turn ideas into reality and staying ahead in the tech industry.

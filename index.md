@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# DevWyre
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Empowering businesses with smart, efficient solutions that are tailored to your needs responsive, reliable, and designed for success.
