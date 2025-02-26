@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  jekyll:
+    image: ruby:3.2
+    container_name: jekyll_site
+    working_dir: /srv/jekyll
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    command: >
+      sh -c "
+      gem install bundler &&
+      bundle install &&
+      jekyll serve --watch --force_polling --livereload
+      "
+    environment:
+      - JEKYLL_ENV=development
