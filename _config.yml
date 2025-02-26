@@ -1,6 +1,7 @@
-baseurl: '/'
+host: 0.0.0.0
+baseurl: ''
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Techstrike Brasil - Soluções em Tecnologia'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"

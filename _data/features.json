@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Consultoria de TI",
+    "description": "Uma equipe de especialistas prontos para te ajudar.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Automação de processos empresariais.",
+    "description": "Utilizamos tecnologia de ponta para automatizar processos burocráticos e repetitivos.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Desenvolvimento de Software",
+    "description": "Desenvolvemos soluções específicas para o seu negócio.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
