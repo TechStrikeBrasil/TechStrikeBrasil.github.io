@@ -50,3 +50,6 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
+include:
+  - app-ads.txt
